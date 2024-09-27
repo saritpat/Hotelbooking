@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "hotel_name": "Hotel JAL",
+    "city": "Bangkok",
+    "phone_number": "734-479-7442",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [1100, 1000],
+    "picture": "/hotel-picture/h1.png",
+    "rating": 8.4
+  },
+  {
+    "id": 2,
+    "hotel_name": "Nobu Hotel",
+    "city": "Chicago",
+    "phone_number": "246-882-6107",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [2500, 2000],
+    "picture": "/hotel-picture/h2.png",
+    "rating": 8.2
+  }, 
+  {
+    "id": 3,
+    "hotel_name": "The Guesthouse",
+    "city": "Chicago",
+    "phone_number": "174-427-4625",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [3000, 2000],
+    "picture": "/hotel-picture/h3.png",
+    "rating": 7.9
+  }, 
+  {
+    "id": 4,
+    "hotel_name": "Hotel Clover",
+    "city": "Bangkok",
+    "phone_number": "979-373-5836",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [1500, 1000],
+    "picture": "/hotel-picture/h4.png",
+    "rating": 9.4
+  }, 
+  {
+    "id": 5,
+    "hotel_name": "Carlton Hotel",
+    "city": "Bangkok",
+    "phone_number": "382-966-1429",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [2100, 2000],
+    "picture": "/hotel-picture/h5.png",
+    "rating": 9.1
+  },
+  {
+    "id": 6,
+    "hotel_name": "Banyan Tree",
+    "city": "Bangkok",
+    "phone_number": "652-763-4051",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [1300, 1000],
+    "picture": "/hotel-picture/h6.png",
+    "rating": 9.1
+  },
+  {
+    "id": 7,
+    "hotel_name": "Loews Hotel",
+    "city": "Chicago",
+    "phone_number": "832-902-9111",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [2200, 2000],
+    "picture": "/hotel-picture/h7.png",
+    "rating": 8.2
+  }, 
+  {
+    "id": 8,
+    "hotel_name": "Akara Hotel",
+    "city": "Bangkok",
+    "phone_number": "545-310-0455",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [1100 ,1000],
+    "picture": "/hotel-picture/h8.png",
+    "rating": 7.7
+  },
+  {
+    "id": 9,
+    "hotel_name": "Hotel Nikko",
+    "city": "Bangkok",
+    "phone_number": "219-252-4914",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [2300, 2000],
+    "picture": "/hotel-picture/h9.png",
+    "rating": 8.1
+  },
+  {
+    "id": 10,
+    "hotel_name": "Chatrium Grand",
+    "city": "Bangkok",
+    "phone_number": "542-617-6020",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [1400, 1000],
+    "picture": "/hotel-picture/h10.png",
+    "rating": 6.9
+  }, 
+  {
+    "id": 11,
+    "hotel_name": "Lancaster",
+    "city": "Bangkok",
+    "phone_number": "138-236-9719",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [2000, 1000],
+    "picture": "/hotel-picture/h11.png",
+    "rating": 8.4
+  }, 
+  {
+    "id": 12,
+    "hotel_name": "Viceroy",
+    "city": "Chicago",
+    "phone_number": "167-378-3649",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [1800, 1500],
+    "picture": "/hotel-picture/h12.png",
+    "rating": 8.2
+  }, 
+  {
+    "id": 13,
+    "hotel_name": "Four Seasons",
+    "city": "Chicago",
+    "phone_number": "742-931-1190",
+    "room_type": ["Deluxe", "Normal"],
+    "room_rate": [3000, 2000],
+    "picture": "/hotel-picture/h13.png",
+    "rating": 7.8
+  }
+]
